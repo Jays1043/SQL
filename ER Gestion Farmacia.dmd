@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="ER Gestion Farmacia" id="5A369EEE-8C16-C7AA-62BE-EC825EE39659" version="3.5">
-<createdBy>aleja</createdBy>
-<createdTime>2024-10-19 13:50:41 UTC</createdTime>
-<ownerDesignName>ER Gestion Farmacia</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>5A369EEE-8C16-C7AA-62BE-EC825EE39659</designId>
-</OSDM_Design>
