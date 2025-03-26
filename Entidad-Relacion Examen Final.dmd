@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Entidad-Relacion Examen Final" id="9C9BA008-16D2-4B78-AA53-B4D57F140BCE" version="3.5">
+<createdBy>aleja</createdBy>
+<createdTime>2024-11-02 13:17:45 UTC</createdTime>
+<ownerDesignName>Entidad-Relacion Examen Final</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9C9BA008-16D2-4B78-AA53-B4D57F140BCE</designId>
+</OSDM_Design>
