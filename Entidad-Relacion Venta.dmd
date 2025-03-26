@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Entidad-Relacion Venta" id="65E0F020-8B01-A9CF-596F-0FA72E95D0AC" version="3.5">
-<createdBy>aleja</createdBy>
-<createdTime>2024-07-27 14:18:45 UTC</createdTime>
-<ownerDesignName>Entidad-Relacion Venta</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>65E0F020-8B01-A9CF-596F-0FA72E95D0AC</designId>
-</OSDM_Design>
